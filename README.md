@@ -57,6 +57,7 @@ Antes da construção do dashboard, foram realizadas etapas de preparação e pa
     - Padronização do campo de automatização;
     - Criação e utilização de medidas para análise dos indicadores.
 1. Dashboard
+Dash operacional.png
 
 O dashboard foi dividido em duas páginas principais.
 
