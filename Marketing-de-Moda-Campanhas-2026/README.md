@@ -1,4 +1,4 @@
-Marketing de Moda — Análise de Campanhas 2026
+Marketing de Moda - Análise de Campanhas 2026
 Sobre o projeto
 
 Projeto de prática em análise de dados com foco no desempenho de campanhas de marketing de uma marca fictícia do setor de moda.
