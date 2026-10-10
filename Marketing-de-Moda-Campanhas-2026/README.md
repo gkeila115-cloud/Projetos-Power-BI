@@ -38,3 +38,7 @@ A base utilizada é fictícia e destinada à prática de análise de dados.
 Observação
 
 Este projeto foi desenvolvido para fins de aprendizagem e prática de análise de dados com Power BI.
+
+## Visualização do dashboard
+
+![Dashboard de Marketing de Moda](dashboard-final.png)
