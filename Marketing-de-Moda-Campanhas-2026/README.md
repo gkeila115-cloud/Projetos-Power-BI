@@ -41,4 +41,4 @@ Este projeto foi desenvolvido para fins de aprendizagem e prática de análise d
 
 ## Visualização do dashboard
 
-![Dashboard de Marketing de Moda](dashboard-final.png)
+![Dashboard de Marketing de Moda](Painel de Marketing (4).png)
